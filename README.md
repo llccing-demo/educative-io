@@ -7,3 +7,4 @@
 - https://github.com/llccing-demo/unleash-the-power-of-llms
 - https://github.com/llccing-demo/prompt-engineering
 - https://github.com/llccing-demo/modern-css-with-tailwind
+- https://github.com/llccing-demo/develop-web3-apps-using-solidity-react
